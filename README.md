@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à le carnet d’ordres central à limites, les marchés et le règlement sur Solana est disponible dans [docs/fr/](docs/fr/).
+
 # OpenBook V2
 
 A central-limit order-book program based on [Mango V4](https://github.com/blockworks-foundation/mango-v4) and the [previous OpenBook program](https://github.com/openbook-dex/program) (which was a fork of [Serum](https://github.com/project-serum/serum-dex)).
